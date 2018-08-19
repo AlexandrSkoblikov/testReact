@@ -5,4 +5,6 @@ gradle/
 out/
 *.iml
 
+*.package-lock*
+
 node_modules/
